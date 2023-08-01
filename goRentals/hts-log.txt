@@ -1,0 +1,499 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 31 Jul 2023 11:17:01 at https://www.gorentals.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0c8H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.gorentals.com/ -O1 "C:\My Web Sites\goRentals" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:17:01	Error: 	"Not Found" (404) at link https://www.gorentals.com/img/favicon.ico (from https://www.gorentals.com/)
+11:17:26	Error: 	"Not Found" (404) at link https://www.gorentals.com/linker/fonts/fontawesome-webfont.eot?v=4.4.0 (from https://www.gorentals.com/linker/styles/font-awesome.css)
+11:17:26	Error: 	"Not Found" (404) at link https://www.gorentals.com/linker/fonts/fontawesome-webfont.eot? (from https://www.gorentals.com/linker/styles/font-awesome.css)
+11:17:26	Error: 	"Not Found" (404) at link https://www.gorentals.com/linker/fonts/fontawesome-webfont.woff2?v=4.4.0 (from https://www.gorentals.com/linker/styles/font-awesome.css)
+11:17:26	Error: 	"Not Found" (404) at link https://www.gorentals.com/linker/fonts/fontawesome-webfont.woff?v=4.4.0 (from https://www.gorentals.com/linker/styles/font-awesome.css)
+11:17:26	Error: 	"Not Found" (404) at link https://www.gorentals.com/linker/fonts/fontawesome-webfont.ttf?v=4.4.0 (from https://www.gorentals.com/linker/styles/font-awesome.css)
+11:17:26	Error: 	"Not Found" (404) at link https://www.gorentals.com/linker/fonts/fontawesome-webfont.svg?v=4.4.0 (from https://www.gorentals.com/linker/styles/font-awesome.css)
+11:17:26	Error: 	"Not Found" (404) at link https://www.gorentals.com/linker/fonts/glyphicons-halflings-regular.html (from https://www.gorentals.com/linker/styles/bootstrap.min.css)
+11:17:26	Error: 	"Not Found" (404) at link https://www.gorentals.com/linker/fonts/glyphicons-halflings-regulard41d.html? (from https://www.gorentals.com/linker/styles/bootstrap.min.css)
+11:17:27	Error: 	"Not Found" (404) at link https://www.gorentals.com/linker/fonts/glyphicons-halflings-regular-2.html (from https://www.gorentals.com/linker/styles/bootstrap.min.css)
+11:17:27	Error: 	"Not Found" (404) at link https://www.gorentals.com/linker/fonts/glyphicons-halflings-regular-3.html (from https://www.gorentals.com/linker/styles/bootstrap.min.css)
+11:17:27	Error: 	"Not Found" (404) at link https://www.gorentals.com/linker/fonts/glyphicons-halflings-regular-4.html (from https://www.gorentals.com/linker/styles/bootstrap.min.css)
+11:17:28	Error: 	"Not Found" (404) at link https://www.gorentals.com/images/footer_smile.html (from https://www.gorentals.com/linker/styles/style.css)
+11:17:29	Error: 	"Not Found" (404) at link https://www.gorentals.com/news' (from https://www.gorentals.com/news/)
+11:26:20	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/nashville/inquire/car/chevrolet-camaro-convertible/fbo/nashville-jwn (from https://www.gorentals.com/sitemap/)
+11:37:42	Error: 	"Not Found" (404) at link https://www.gorentals.com/linker/styles/bootstrapvalidator.css (from https://www.gorentals.com/linker/styles/grab.html)
+11:37:42	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/john-wayne (from https://www.gorentals.com/linker/styles/grab.html)
+11:37:42	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles (from https://www.gorentals.com/linker/styles/grab.html)
+11:37:42	Error: 	"Not Found" (404) at link https://www.gorentals.com/linker/js/footer/bootstrapValidator.min.js (from https://www.gorentals.com/linker/styles/grab.html)
+11:37:42	Error: 	"Not Found" (404) at link https://www.gorentals.com/linker/js/footer/c-bootstrap-datepicker.js (from https://www.gorentals.com/linker/styles/grab.html)
+11:37:42	Error: 	"Not Found" (404) at link https://www.gorentals.com/linker/js/footer/z-summernote.min.js (from https://www.gorentals.com/linker/styles/grab.html)
+11:37:42	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/audi-a4/1433908704918-SupercarFocus.com2.jpg (from https://www.gorentals.com/location/addison/inquire/car/audi-a4/fbo/addison-ads)
+11:37:43	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/cadillac-escalade-awd/1433908792217-SupercarFocus.com2.jpg (from https://www.gorentals.com/location/addison/inquire/car/cadillac-escalade-awd/fbo/addison-ads)
+11:37:43	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/cadillac-escalade-esv-awd/1433198936062-cadillac-escalade-front-3quarter.jpg (from https://www.gorentals.com/location/addison/inquire/car/cadillac-escalade-esv-awd/fbo/addison-ads)
+11:37:43	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/chevy-tahoe/1433908952514-SupercarFocus.com2.jpg (from https://www.gorentals.com/location/addison/inquire/car/chevrolet-tahoe-rst-4x4/fbo/addison-ads)
+11:37:44	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/gmc-Yukon/1427152549281-gmc-yukon-front-3quarter.jpg (from https://www.gorentals.com/location/addison/inquire/car/gmc-yukon-xl-all-wheel-drive/fbo/addison-ads)
+11:37:44	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/jeep-grand-cherokee/jeep-grand-cherokee-front-3quarter.png (from https://www.gorentals.com/location/addison/inquire/car/jeep-grand-cherokee--limited/fbo/addison-ads)
+11:37:44	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/thumbs/mercedes-c300/SupercarFocus.com2.jpg (from https://www.gorentals.com/location/addison/inquire/car/mercedes-c300/fbo/addison-ads)
+11:37:45	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/mercedes-gl450/mercedes-gl450-front-3quarter.png (from https://www.gorentals.com/location/addison/inquire/car/mercedes-gls450-4matic/fbo/addison-ads)
+11:37:45	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/porsche-cayenne-grey/porche-cayenne-grey-front-3quarter.png (from https://www.gorentals.com/location/addison/inquire/car/porsche-cayenne/fbo/addison-ads)
+11:37:46	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/porsche-panamera/porche-panamera-front-3quarter.png (from https://www.gorentals.com/location/addison/inquire/car/porsche-panamera/fbo/addison-ads)
+11:37:46	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/toyota-avalon/toyota-avalon-front-3quarter.png (from https://www.gorentals.com/location/addison/inquire/car/toyota-avalon/fbo/addison-ads)
+11:37:46	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/toyota-camry/1433909336726-SupercarFocus.com2.jpg (from https://www.gorentals.com/location/addison/inquire/car/toyota-camry/fbo/addison-ads)
+11:37:46	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/toyota-rav4/1433909584033-SupercarFocus.com2.jpg (from https://www.gorentals.com/location/addison/inquire/car/toyota-rav4/fbo/addison-ads)
+11:38:07	Warning: 	Found for www.gorentals.com/robots.txt
+11:38:07	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/robots.txt and https://www.gorentals.com/robots.txt
+11:38:07	Warning: 	Warning moved treated for www.gorentals.com/robots.txt (real one is https://www.gorentals.com/robots.txt)
+11:38:07	Warning: 	Found for www.gorentals.com/location/dallas/audi-a8l
+11:38:07	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/dallas/audi-a8l and https://www.gorentals.com/location/dallas/audi-a8l
+11:38:07	Warning: 	File has moved from www.gorentals.com/location/dallas/audi-a8l to https://www.gorentals.com/location/dallas/audi-a8l
+11:38:08	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/bentley-flying-spur/1437605080710-SupercarFocus.com11.jpg (from https://www.gorentals.com/location/aspen/inquire/car/bentley-flying-spur/fbo/aspen-ase)
+11:38:08	Warning: 	Found for www.gorentals.com/location/aspen/Cadillac-Escalade-ESV-AWD
+11:38:08	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/aspen/Cadillac-Escalade-ESV-AWD and https://www.gorentals.com/location/aspen/Cadillac-Escalade-ESV-AWD
+11:38:08	Warning: 	File has moved from www.gorentals.com/location/aspen/Cadillac-Escalade-ESV-AWD to https://www.gorentals.com/location/aspen/Cadillac-Escalade-ESV-AWD
+11:38:08	Warning: 	Found for www.gorentals.com/location/aspen/escalade-esv
+11:38:08	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/aspen/escalade-esv and https://www.gorentals.com/location/aspen/escalade-esv
+11:38:08	Warning: 	File has moved from www.gorentals.com/location/aspen/escalade-esv to https://www.gorentals.com/location/aspen/escalade-esv
+11:38:08	Warning: 	Found for www.gorentals.com/location/vail/suburban-ltz
+11:38:08	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/vail/suburban-ltz and https://www.gorentals.com/location/vail/suburban-ltz
+11:38:08	Warning: 	File has moved from www.gorentals.com/location/vail/suburban-ltz to https://www.gorentals.com/location/vail/suburban-ltz
+11:38:09	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/range-rover-awd/1433910898461-SupercarFocus.com2.jpg (from https://www.gorentals.com/location/aspen/inquire/car/land-rover-range-rover/fbo/aspen-ase)
+11:38:09	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/aspen/mercedes-benz-e-350-convertible (from https://www.gorentals.com/location/aspen/inquire/car/mercedes-e350-sedan/fbo/aspen-ase)
+11:38:09	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/mercedes-g550/1433910567013-SupercarFocus.com2.jpg (from https://www.gorentals.com/location/aspen/inquire/car/mercedes-g550/fbo/aspen-ase)
+11:38:10	Warning: 	Found for www.gorentals.com/location/santa-monica/mercedes-sl500
+11:38:10	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/santa-monica/mercedes-sl500 and https://www.gorentals.com/location/santa-monica/mercedes-sl500
+11:38:10	Warning: 	File has moved from www.gorentals.com/location/santa-monica/mercedes-sl500 to https://www.gorentals.com/location/santa-monica/mercedes-sl500
+11:38:10	Warning: 	Found for www.gorentals.com/location/aspen/mercedes-benz-e-350-sport
+11:38:10	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/aspen/mercedes-benz-e-350-sport and https://www.gorentals.com/location/aspen/mercedes-benz-e-350-sport
+11:38:10	Warning: 	File has moved from www.gorentals.com/location/aspen/mercedes-benz-e-350-sport to https://www.gorentals.com/location/aspen/mercedes-benz-e-350-sport
+11:38:10	Warning: 	Found for www.gorentals.com/location/denver/porsche-panamera
+11:38:10	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/denver/porsche-panamera and https://www.gorentals.com/location/denver/porsche-panamera
+11:38:10	Warning: 	File has moved from www.gorentals.com/location/denver/porsche-panamera to https://www.gorentals.com/location/denver/porsche-panamera
+11:38:10	Warning: 	Found for www.gorentals.com/location/aspen/range-rover
+11:38:10	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/aspen/range-rover and https://www.gorentals.com/location/aspen/range-rover
+11:38:10	Warning: 	File has moved from www.gorentals.com/location/aspen/range-rover to https://www.gorentals.com/location/aspen/range-rover
+11:38:11	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/Tesla-Model-S/1433911043143-SupercarFocus.com2.jpg (from https://www.gorentals.com/location/aspen/inquire/car/tesla-model-s/fbo/aspen-ase)
+11:38:11	Warning: 	Found for www.gorentals.com/location/john-wayne/toyota-avalon
+11:38:11	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/john-wayne/toyota-avalon and https://www.gorentals.com/location/john-wayne/toyota-avalon
+11:38:11	Warning: 	File has moved from www.gorentals.com/location/john-wayne/toyota-avalon to https://www.gorentals.com/location/john-wayne/toyota-avalon
+11:38:11	Warning: 	Found for www.gorentals.com/location/denver/toyota-camry
+11:38:11	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/denver/toyota-camry and https://www.gorentals.com/location/denver/toyota-camry
+11:38:11	Warning: 	File has moved from www.gorentals.com/location/denver/toyota-camry to https://www.gorentals.com/location/denver/toyota-camry
+11:38:11	Warning: 	Found for www.gorentals.com/location/vail/toyota-corolla
+11:38:11	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/vail/toyota-corolla and https://www.gorentals.com/location/vail/toyota-corolla
+11:38:11	Warning: 	File has moved from www.gorentals.com/location/vail/toyota-corolla to https://www.gorentals.com/location/vail/toyota-corolla
+11:38:11	Warning: 	Found for www.gorentals.com/location/dallas/sienna-le
+11:38:11	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/dallas/sienna-le and https://www.gorentals.com/location/dallas/sienna-le
+11:38:11	Warning: 	File has moved from www.gorentals.com/location/dallas/sienna-le to https://www.gorentals.com/location/dallas/sienna-le
+11:38:13	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/cadillac-escalade-awd/20160303-image5.jpg (from https://www.gorentals.com/location/aspen-commercial-airport/inquire/car/cadillac-escalade-awd/fbo/aspen-commercial-ase)
+11:38:14	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/mercedes-c300/20170713-image1.jpg (from https://www.gorentals.com/location/aspen-commercial-airport/inquire/car/mercedes-c300/fbo/aspen-commercial-ase)
+11:38:15	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/mercedes-g550/20170713-image1.jpg (from https://www.gorentals.com/location/aspen-commercial-airport/inquire/car/mercedes-g550/fbo/aspen-commercial-ase)
+11:38:15	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/mercedes-gl450-4matic/20170713-image1.jpg (from https://www.gorentals.com/location/aspen-commercial-airport/inquire/car/mercedes-gls450-4matic/fbo/aspen-commercial-ase)
+11:38:19	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/chevy-camaro-convertible/camaro-convertible_front-3quarter.jpg (from https://www.gorentals.com/location/atlanta/inquire/car/chevrolet-camaro-convertible/fbo/atlanta-fty)
+11:38:20	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/ford-transit/20170713-image1.jpg (from https://www.gorentals.com/location/atlanta/inquire/car/ford-transit/fbo/atlanta-fty)
+11:38:25	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/audi-a4/20160304-image7.jpg (from https://www.gorentals.com/location/austin/inquire/car/audi-a4/fbo/austin-aus)
+11:38:28	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/mercedes-c300/SupercarFocus.com2.jpg (from https://www.gorentals.com/location/austin/inquire/car/mercedes-c300/fbo/austin-aus)
+11:38:28	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/mercedes-g550/20160304-image5.jpg (from https://www.gorentals.com/location/austin/inquire/car/mercedes-g550/fbo/austin-aus)
+11:38:46	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/ferrari-california/1437605274048-SupercarFocus.com2.jpg (from https://www.gorentals.com/location/bedford/inquire/car/ferrari-california/fbo/bedford-bed)
+11:38:58	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/boca-raton/inquire/car/jeep-wrangler-unlimited-4x4/fbo/abeandlouies.com (from https://www.gorentals.com/location/boca-raton/inquire/car/jeep-wrangler-unlimited-4x4/fbo/boca-raton-bct)
+11:38:58	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/boca-raton/inquire/car/jeep-wrangler-unlimited-4x4/fbo/theducktavern.com (from https://www.gorentals.com/location/boca-raton/inquire/car/jeep-wrangler-unlimited-4x4/fbo/boca-raton-bct)
+11:39:21	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/burbank/inquire/car/cadillac-escalade-esv-awd/fbo/portosbakery.com (from https://www.gorentals.com/location/burbank/inquire/car/cadillac-escalade-esv-awd/fbo/burbank-bur)
+11:39:22	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/ford-van-windows/ford-van-with-windows-front-3quarter.png (from https://www.gorentals.com/location/burbank/inquire/car/ford-12-passengers/fbo/burbank-bur)
+11:39:22	Error: 	"Not Found" (404) at link https://www.gorentals.com/assets/carimages/ford-van-extended/ford-van-extended-front-3quarter.png (from https://www.gorentals.com/location/burbank/inquire/car/ford-15-passengers/fbo/burbank-bur)
+11:39:22	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/burbank/inquire/car/mercedes-e350-sedan/fbo/batcade.com (from https://www.gorentals.com/location/burbank/inquire/car/mercedes-e350-sedan/fbo/burbank-bur)
+11:39:23	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/burbank/inquire/car/mercedes-gls450-4matic/fbo/portosbakery.com (from https://www.gorentals.com/location/burbank/inquire/car/mercedes-gls450-4matic/fbo/burbank-bur)
+11:39:23	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/burbank/inquire/car/mercedes-gls450-4matic/fbo/worldempanadas.com (from https://www.gorentals.com/location/burbank/inquire/car/mercedes-gls450-4matic/fbo/burbank-bur)
+11:39:23	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/burbank/inquire/car/mercedes-gls450-4matic/fbo/theparkbarandgrill.com (from https://www.gorentals.com/location/burbank/inquire/car/mercedes-gls450-4matic/fbo/burbank-bur)
+11:39:23	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/burbank/inquire/car/mercedes-gls450-4matic/fbo/lunavinewinebar.com (from https://www.gorentals.com/location/burbank/inquire/car/mercedes-gls450-4matic/fbo/burbank-bur)
+11:39:23	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/burbank/inquire/car/mercedes-s550/fbo/burbanktowncenter.com (from https://www.gorentals.com/location/burbank/inquire/car/mercedes-s550/fbo/burbank-bur)
+11:39:23	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/burbank/inquire/car/mercedes-s550/fbo/starlinetours.com (from https://www.gorentals.com/location/burbank/inquire/car/mercedes-s550/fbo/burbank-bur)
+11:40:12	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/vail/audi-a6-supercharged (from https://www.gorentals.com/location/dallas/inquire/car/audi-a6/fbo/dallas-dal)
+11:40:12	Warning: 	Found for www.gorentals.com/location/san-diego/cadillac-escalade-esv
+11:40:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/san-diego/cadillac-escalade-esv and https://www.gorentals.com/location/san-diego/cadillac-escalade-esv
+11:40:12	Warning: 	File has moved from www.gorentals.com/location/san-diego/cadillac-escalade-esv to https://www.gorentals.com/location/san-diego/cadillac-escalade-esv
+11:40:12	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/dallas/inquire/car/cadillac-escalade-esv-awd/fbo/jfk.org (from https://www.gorentals.com/location/dallas/inquire/car/cadillac-escalade-esv-awd/fbo/dallas-dal)
+11:40:13	Warning: 	Found for www.gorentals.com/location/aspen/chevrolet-suburban-ltz-awd
+11:40:13	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/aspen/chevrolet-suburban-ltz-awd and https://www.gorentals.com/location/aspen/chevrolet-suburban-ltz-awd
+11:40:13	Warning: 	File has moved from www.gorentals.com/location/aspen/chevrolet-suburban-ltz-awd to https://www.gorentals.com/location/aspen/chevrolet-suburban-ltz-awd
+11:40:13	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/dallas/inquire/car/ford-mustang-convertible/fbo/javiers.net (from https://www.gorentals.com/location/dallas/inquire/car/ford-mustang-convertible/fbo/dallas-dal)
+11:40:13	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/dallas/inquire/car/ford-mustang-convertible/fbo/cosmosbar.com (from https://www.gorentals.com/location/dallas/inquire/car/ford-mustang-convertible/fbo/dallas-dal)
+11:40:13	Warning: 	Found for www.gorentals.com/location/denver/jeep-grand-cherokee-limited-4x4
+11:40:13	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/denver/jeep-grand-cherokee-limited-4x4 and https://www.gorentals.com/location/denver/jeep-grand-cherokee-limited-4x4
+11:40:13	Warning: 	File has moved from www.gorentals.com/location/denver/jeep-grand-cherokee-limited-4x4 to https://www.gorentals.com/location/denver/jeep-grand-cherokee-limited-4x4
+11:40:13	Warning: 	Found for www.gorentals.com/location/aspen/jeep-wrangler-unlimited-sahara-edition-4x4
+11:40:13	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/aspen/jeep-wrangler-unlimited-sahara-edition-4x4 and https://www.gorentals.com/location/aspen/jeep-wrangler-unlimited-sahara-edition-4x4
+11:40:13	Warning: 	File has moved from www.gorentals.com/location/aspen/jeep-wrangler-unlimited-sahara-edition-4x4 to https://www.gorentals.com/location/aspen/jeep-wrangler-unlimited-sahara-edition-4x4
+11:40:14	Warning: 	Found for www.gorentals.com/location/denver/mercedes-benz-c-300-sport
+11:40:14	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/denver/mercedes-benz-c-300-sport and https://www.gorentals.com/location/denver/mercedes-benz-c-300-sport
+11:40:14	Warning: 	File has moved from www.gorentals.com/location/denver/mercedes-benz-c-300-sport to https://www.gorentals.com/location/denver/mercedes-benz-c-300-sport
+11:40:14	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/dallas/inquire/car/mercedes-e350-sedan/fbo/perotmuseum.org (from https://www.gorentals.com/location/dallas/inquire/car/mercedes-e350-sedan/fbo/dallas-dal)
+11:40:14	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/dallas/inquire/car/mercedes-e350-sedan/fbo/double-wide.com (from https://www.gorentals.com/location/dallas/inquire/car/mercedes-e350-sedan/fbo/dallas-dal)
+11:40:14	Warning: 	Found for www.gorentals.com/location/john-wayne/mercedes-benz-e350
+11:40:14	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/john-wayne/mercedes-benz-e350 and https://www.gorentals.com/location/john-wayne/mercedes-benz-e350
+11:40:14	Warning: 	File has moved from www.gorentals.com/location/john-wayne/mercedes-benz-e350 to https://www.gorentals.com/location/john-wayne/mercedes-benz-e350
+11:40:14	Warning: 	Found for www.gorentals.com/location/las-vegas/mercedes-gl-450
+11:40:14	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/las-vegas/mercedes-gl-450 and https://www.gorentals.com/location/las-vegas/mercedes-gl-450
+11:40:14	Warning: 	File has moved from www.gorentals.com/location/las-vegas/mercedes-gl-450 to https://www.gorentals.com/location/las-vegas/mercedes-gl-450
+11:40:15	Warning: 	Found for www.gorentals.com/location/denver/mercedes-benz-s-550
+11:40:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/denver/mercedes-benz-s-550 and https://www.gorentals.com/location/denver/mercedes-benz-s-550
+11:40:15	Warning: 	File has moved from www.gorentals.com/location/denver/mercedes-benz-s-550 to https://www.gorentals.com/location/denver/mercedes-benz-s-550
+11:40:15	Warning: 	Found for www.gorentals.com/location/orange-county/porsche-panamera
+11:40:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/orange-county/porsche-panamera and https://www.gorentals.com/location/orange-county/porsche-panamera
+11:40:15	Warning: 	File has moved from www.gorentals.com/location/orange-county/porsche-panamera to https://www.gorentals.com/location/orange-county/porsche-panamera
+11:40:15	Warning: 	Found for www.gorentals.com/location/dallas/range-rover
+11:40:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/dallas/range-rover and https://www.gorentals.com/location/dallas/range-rover
+11:40:15	Warning: 	File has moved from www.gorentals.com/location/dallas/range-rover to https://www.gorentals.com/location/dallas/range-rover
+11:40:15	Warning: 	Found for www.gorentals.com/location/vail/toyota-avalon
+11:40:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/vail/toyota-avalon and https://www.gorentals.com/location/vail/toyota-avalon
+11:40:15	Warning: 	File has moved from www.gorentals.com/location/vail/toyota-avalon to https://www.gorentals.com/location/vail/toyota-avalon
+11:40:15	Warning: 	Found for www.gorentals.com/location/aspen/toyota-camry
+11:40:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/aspen/toyota-camry and https://www.gorentals.com/location/aspen/toyota-camry
+11:40:15	Warning: 	File has moved from www.gorentals.com/location/aspen/toyota-camry to https://www.gorentals.com/location/aspen/toyota-camry
+11:40:16	Warning: 	Found for www.gorentals.com/location/orange-county/toyota-sienna
+11:40:16	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/orange-county/toyota-sienna and https://www.gorentals.com/location/orange-county/toyota-sienna
+11:40:16	Warning: 	File has moved from www.gorentals.com/location/orange-county/toyota-sienna to https://www.gorentals.com/location/orange-county/toyota-sienna
+11:40:24	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/john-wayne/cadillac-escalade-esv-awd (from https://www.gorentals.com/location/dana-point/inquire/car/cadillac-escalade-esv-awd/fbo/monarch-beach-resort)
+11:40:24	Warning: 	Found for www.gorentals.com/location/john-wayne/chevrolet-suburban-ltz-awd
+11:40:24	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/john-wayne/chevrolet-suburban-ltz-awd and https://www.gorentals.com/location/john-wayne/chevrolet-suburban-ltz-awd
+11:40:24	Warning: 	File has moved from www.gorentals.com/location/john-wayne/chevrolet-suburban-ltz-awd to https://www.gorentals.com/location/john-wayne/chevrolet-suburban-ltz-awd
+11:40:26	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/san-diego/mercedes-e350-sport-sedan (from https://www.gorentals.com/location/dana-point/inquire/car/mercedes-e350-sedan/fbo/monarch-beach-resort)
+11:40:26	Warning: 	Found for www.gorentals.com/location/vail/mercedes-e350-convertible
+11:40:26	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/vail/mercedes-e350-convertible and https://www.gorentals.com/location/vail/mercedes-e350-convertible
+11:40:26	Warning: 	File has moved from www.gorentals.com/location/vail/mercedes-e350-convertible to https://www.gorentals.com/location/vail/mercedes-e350-convertible
+11:40:26	Warning: 	Found for www.gorentals.com/location/denver/mercedes-gl450
+11:40:26	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/denver/mercedes-gl450 and https://www.gorentals.com/location/denver/mercedes-gl450
+11:40:26	Warning: 	File has moved from www.gorentals.com/location/denver/mercedes-gl450 to https://www.gorentals.com/location/denver/mercedes-gl450
+11:40:26	Warning: 	Found for www.gorentals.com/location/san-diego/mercedes-sl550
+11:40:26	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/san-diego/mercedes-sl550 and https://www.gorentals.com/location/san-diego/mercedes-sl550
+11:40:26	Warning: 	File has moved from www.gorentals.com/location/san-diego/mercedes-sl550 to https://www.gorentals.com/location/san-diego/mercedes-sl550
+11:40:26	Warning: 	Found for www.gorentals.com/location/orange-county/mercedes-benz-s550
+11:40:26	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/orange-county/mercedes-benz-s550 and https://www.gorentals.com/location/orange-county/mercedes-benz-s550
+11:40:26	Warning: 	File has moved from www.gorentals.com/location/orange-county/mercedes-benz-s550 to https://www.gorentals.com/location/orange-county/mercedes-benz-s550
+11:40:27	Warning: 	Found for www.gorentals.com/location/san-diego/porsche-911-carrera-cabriolet
+11:40:27	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/san-diego/porsche-911-carrera-cabriolet and https://www.gorentals.com/location/san-diego/porsche-911-carrera-cabriolet
+11:40:27	Warning: 	File has moved from www.gorentals.com/location/san-diego/porsche-911-carrera-cabriolet to https://www.gorentals.com/location/san-diego/porsche-911-carrera-cabriolet
+11:40:27	Warning: 	Found for www.gorentals.com/location/las-vegas/porsche-ceyenne
+11:40:27	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/las-vegas/porsche-ceyenne and https://www.gorentals.com/location/las-vegas/porsche-ceyenne
+11:40:27	Warning: 	File has moved from www.gorentals.com/location/las-vegas/porsche-ceyenne to https://www.gorentals.com/location/las-vegas/porsche-ceyenne
+11:40:27	Warning: 	Found for www.gorentals.com/location/san-diego/porsche-panamera
+11:40:27	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/san-diego/porsche-panamera and https://www.gorentals.com/location/san-diego/porsche-panamera
+11:40:27	Warning: 	File has moved from www.gorentals.com/location/san-diego/porsche-panamera to https://www.gorentals.com/location/san-diego/porsche-panamera
+11:40:27	Warning: 	Found for www.gorentals.com/location/orange-county/land-rover-range-rover
+11:40:27	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/orange-county/land-rover-range-rover and https://www.gorentals.com/location/orange-county/land-rover-range-rover
+11:40:27	Warning: 	File has moved from www.gorentals.com/location/orange-county/land-rover-range-rover to https://www.gorentals.com/location/orange-county/land-rover-range-rover
+11:40:27	Warning: 	Found for www.gorentals.com/location/dallas/avalon
+11:40:27	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/dallas/avalon and https://www.gorentals.com/location/dallas/avalon
+11:40:27	Warning: 	File has moved from www.gorentals.com/location/dallas/avalon to https://www.gorentals.com/location/dallas/avalon
+11:40:28	Warning: 	Found for www.gorentals.com/location/john-wayne/toyota-camry
+11:40:28	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/john-wayne/toyota-camry and https://www.gorentals.com/location/john-wayne/toyota-camry
+11:40:28	Warning: 	File has moved from www.gorentals.com/location/john-wayne/toyota-camry to https://www.gorentals.com/location/john-wayne/toyota-camry
+11:40:28	Warning: 	Found for www.gorentals.com/location/john-wayne/toyota-corolla
+11:40:28	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/john-wayne/toyota-corolla and https://www.gorentals.com/location/john-wayne/toyota-corolla
+11:40:28	Warning: 	File has moved from www.gorentals.com/location/john-wayne/toyota-corolla to https://www.gorentals.com/location/john-wayne/toyota-corolla
+11:40:28	Warning: 	Found for www.gorentals.com/location/los-angeles/toyota-sienna-le
+11:40:28	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/los-angeles/toyota-sienna-le and https://www.gorentals.com/location/los-angeles/toyota-sienna-le
+11:40:28	Warning: 	File has moved from www.gorentals.com/location/los-angeles/toyota-sienna-le to https://www.gorentals.com/location/los-angeles/toyota-sienna-le
+11:40:35	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/vail/escalade-esv (from https://www.gorentals.com/location/denver/inquire/car/cadillac-escalade-esv-awd/fbo/denver-apa)
+11:40:35	Warning: 	Found for www.gorentals.com/location/orange-county/ford-mustang
+11:40:35	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/orange-county/ford-mustang and https://www.gorentals.com/location/orange-county/ford-mustang
+11:40:35	Warning: 	File has moved from www.gorentals.com/location/orange-county/ford-mustang to https://www.gorentals.com/location/orange-county/ford-mustang
+11:40:36	Warning: 	Found for www.gorentals.com/location/las-vegas/jeep-wrangler-4-door-unlimited
+11:40:36	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/las-vegas/jeep-wrangler-4-door-unlimited and https://www.gorentals.com/location/las-vegas/jeep-wrangler-4-door-unlimited
+11:40:36	Warning: 	File has moved from www.gorentals.com/location/las-vegas/jeep-wrangler-4-door-unlimited to https://www.gorentals.com/location/las-vegas/jeep-wrangler-4-door-unlimited
+11:40:36	Warning: 	Found for www.gorentals.com/location/dallas/mercedes-c300
+11:40:36	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/dallas/mercedes-c300 and https://www.gorentals.com/location/dallas/mercedes-c300
+11:40:36	Warning: 	File has moved from www.gorentals.com/location/dallas/mercedes-c300 to https://www.gorentals.com/location/dallas/mercedes-c300
+11:40:36	Warning: 	Found for www.gorentals.com/location/denver/mercedes-benz-e-350-convertible
+11:40:36	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/denver/mercedes-benz-e-350-convertible and https://www.gorentals.com/location/denver/mercedes-benz-e-350-convertible
+11:40:36	Warning: 	File has moved from www.gorentals.com/location/denver/mercedes-benz-e-350-convertible to https://www.gorentals.com/location/denver/mercedes-benz-e-350-convertible
+11:40:36	Warning: 	Found for www.gorentals.com/location/dallas/mercedes-e350
+11:40:36	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/dallas/mercedes-e350 and https://www.gorentals.com/location/dallas/mercedes-e350
+11:40:36	Warning: 	File has moved from www.gorentals.com/location/dallas/mercedes-e350 to https://www.gorentals.com/location/dallas/mercedes-e350
+11:40:37	Warning: 	Found for www.gorentals.com/location/aspen/aspen-mercedes-gl450-awd-rentals
+11:40:37	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/aspen/aspen-mercedes-gl450-awd-rentals and https://www.gorentals.com/location/aspen/aspen-mercedes-gl450-awd-rentals
+11:40:37	Warning: 	File has moved from www.gorentals.com/location/aspen/aspen-mercedes-gl450-awd-rentals to https://www.gorentals.com/location/aspen/aspen-mercedes-gl450-awd-rentals
+11:40:37	Warning: 	Found for www.gorentals.com/location/vail/mercedes-sl550-roadster
+11:40:37	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/vail/mercedes-sl550-roadster and https://www.gorentals.com/location/vail/mercedes-sl550-roadster
+11:40:37	Warning: 	File has moved from www.gorentals.com/location/vail/mercedes-sl550-roadster to https://www.gorentals.com/location/vail/mercedes-sl550-roadster
+11:40:37	Warning: 	Found for www.gorentals.com/location/john-wayne/porsche-cayenne-awd
+11:40:37	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/john-wayne/porsche-cayenne-awd and https://www.gorentals.com/location/john-wayne/porsche-cayenne-awd
+11:40:37	Warning: 	File has moved from www.gorentals.com/location/john-wayne/porsche-cayenne-awd to https://www.gorentals.com/location/john-wayne/porsche-cayenne-awd
+11:40:37	Warning: 	Found for www.gorentals.com/location/john-wayne/porsche-panamera
+11:40:37	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/john-wayne/porsche-panamera and https://www.gorentals.com/location/john-wayne/porsche-panamera
+11:40:37	Warning: 	File has moved from www.gorentals.com/location/john-wayne/porsche-panamera to https://www.gorentals.com/location/john-wayne/porsche-panamera
+11:40:38	Warning: 	Found for www.gorentals.com/location/denver/range-rover
+11:40:38	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/denver/range-rover and https://www.gorentals.com/location/denver/range-rover
+11:40:38	Warning: 	File has moved from www.gorentals.com/location/denver/range-rover to https://www.gorentals.com/location/denver/range-rover
+11:40:38	Warning: 	Found for www.gorentals.com/location/aspen/toyota-avalon
+11:40:38	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/aspen/toyota-avalon and https://www.gorentals.com/location/aspen/toyota-avalon
+11:40:38	Warning: 	File has moved from www.gorentals.com/location/aspen/toyota-avalon to https://www.gorentals.com/location/aspen/toyota-avalon
+11:40:38	Warning: 	Found for www.gorentals.com/location/aspen/toyota-corolla
+11:40:38	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/aspen/toyota-corolla and https://www.gorentals.com/location/aspen/toyota-corolla
+11:40:38	Warning: 	File has moved from www.gorentals.com/location/aspen/toyota-corolla to https://www.gorentals.com/location/aspen/toyota-corolla
+11:40:38	Warning: 	Found for www.gorentals.com/location/aspen/toyota-sienna
+11:40:38	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/aspen/toyota-sienna and https://www.gorentals.com/location/aspen/toyota-sienna
+11:40:38	Warning: 	File has moved from www.gorentals.com/location/aspen/toyota-sienna to https://www.gorentals.com/location/aspen/toyota-sienna
+11:41:10	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/fort-lauderdale-executive/inquire/car/chevrolet-camaro-convertible/fbo/latitudeshollywoodbeach.com (from https://www.gorentals.com/location/fort-lauderdale-executive/inquire/car/chevrolet-camaro-convertible/fbo/fort-lauderdale-fxe)
+11:41:10	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/fort-lauderdale-executive/inquire/car/chevrolet-corvette/fbo/butterflyworld.com (from https://www.gorentals.com/location/fort-lauderdale-executive/inquire/car/chevrolet-corvette/fbo/fort-lauderdale-fxe)
+11:41:10	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/fort-lauderdale-executive/inquire/car/chevrolet-corvette/fbo/bucadibeppo.com (from https://www.gorentals.com/location/fort-lauderdale-executive/inquire/car/chevrolet-corvette/fbo/fort-lauderdale-fxe)
+11:41:11	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/fort-lauderdale-executive/inquire/car/jeep-wrangler-unlimited-4x4/fbo/timpanochophouse.net (from https://www.gorentals.com/location/fort-lauderdale-executive/inquire/car/jeep-wrangler-unlimited-4x4/fbo/fort-lauderdale-fxe)
+11:41:24	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/fort-worth/inquire/car/mercedes-e350-sedan/fbo/delfriscos.com (from https://www.gorentals.com/location/fort-worth/inquire/car/mercedes-e350-sedan/fbo/fort-worth-ftw)
+11:41:24	Error: 	"Not Found" (404) at link https://www.gorentals.com/location/fort-worth/inquire/car/mercedes-e350-sedan/fbo/sundancesquare.com (from https://www.gorentals.com/location/fort-worth/inquire/car/mercedes-e350-sedan/fbo/fort-worth-ftw)
+11:41:24	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/denver/porsche-cayenne-awd (from https://www.gorentals.com/location/fort-worth/inquire/car/porsche-cayenne/fbo/fort-worth-ftw)
+11:41:25	Warning: 	Found for www.gorentals.com/location/denver/toyota-corolla
+11:41:25	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/denver/toyota-corolla and https://www.gorentals.com/location/denver/toyota-corolla
+11:41:25	Warning: 	File has moved from www.gorentals.com/location/denver/toyota-corolla to https://www.gorentals.com/location/denver/toyota-corolla
+11:43:36	Warning: 	Found for www.gorentals.com/location/dallas/audi-a5
+11:43:36	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/dallas/audi-a5 and https://www.gorentals.com/location/dallas/audi-a5
+11:43:36	Warning: 	File has moved from www.gorentals.com/location/dallas/audi-a5 to https://www.gorentals.com/location/dallas/audi-a5
+11:43:36	Warning: 	Found for www.gorentals.com/location/santa-monica/audi-a6
+11:43:36	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/santa-monica/audi-a6 and https://www.gorentals.com/location/santa-monica/audi-a6
+11:43:36	Warning: 	File has moved from www.gorentals.com/location/santa-monica/audi-a6 to https://www.gorentals.com/location/santa-monica/audi-a6
+11:43:36	Warning: 	Found for www.gorentals.com/location/van-nuys/audi-a7
+11:43:36	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/van-nuys/audi-a7 and https://www.gorentals.com/location/van-nuys/audi-a7
+11:43:36	Warning: 	File has moved from www.gorentals.com/location/van-nuys/audi-a7 to https://www.gorentals.com/location/van-nuys/audi-a7
+11:43:37	Warning: 	Found for www.gorentals.com/location/aspen/audi-a8l-quattro
+11:43:37	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/aspen/audi-a8l-quattro and https://www.gorentals.com/location/aspen/audi-a8l-quattro
+11:43:37	Warning: 	File has moved from www.gorentals.com/location/aspen/audi-a8l-quattro to https://www.gorentals.com/location/aspen/audi-a8l-quattro
+11:43:37	Warning: 	Found for www.gorentals.com/location/dallas/cadillac-escalade-esv
+11:43:37	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/dallas/cadillac-escalade-esv and https://www.gorentals.com/location/dallas/cadillac-escalade-esv
+11:43:37	Warning: 	File has moved from www.gorentals.com/location/dallas/cadillac-escalade-esv to https://www.gorentals.com/location/dallas/cadillac-escalade-esv
+11:43:37	Warning: 	Found for www.gorentals.com/location/dallas/chevrolet-corvette
+11:43:37	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/dallas/chevrolet-corvette and https://www.gorentals.com/location/dallas/chevrolet-corvette
+11:43:37	Warning: 	File has moved from www.gorentals.com/location/dallas/chevrolet-corvette to https://www.gorentals.com/location/dallas/chevrolet-corvette
+11:43:38	Warning: 	Found for www.gorentals.com/location/santa-monica/chevrolet-suburban-ltz
+11:43:38	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/santa-monica/chevrolet-suburban-ltz and https://www.gorentals.com/location/santa-monica/chevrolet-suburban-ltz
+11:43:38	Warning: 	File has moved from www.gorentals.com/location/santa-monica/chevrolet-suburban-ltz to https://www.gorentals.com/location/santa-monica/chevrolet-suburban-ltz
+11:43:39	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/santa-monica/mercedes-e350-convertible (from https://www.gorentals.com/location/las-vegas/inquire/car/mercedes-e350-sedan/fbo/las-vegas-las)
+11:43:40	Warning: 	Found for www.gorentals.com/location/denver/mercedes-benz-e-350-sport
+11:43:40	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/denver/mercedes-benz-e-350-sport and https://www.gorentals.com/location/denver/mercedes-benz-e-350-sport
+11:43:40	Warning: 	File has moved from www.gorentals.com/location/denver/mercedes-benz-e-350-sport to https://www.gorentals.com/location/denver/mercedes-benz-e-350-sport
+11:43:40	Warning: 	Found for www.gorentals.com/location/dallas/mercedes-gl450
+11:43:40	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/dallas/mercedes-gl450 and https://www.gorentals.com/location/dallas/mercedes-gl450
+11:43:40	Warning: 	File has moved from www.gorentals.com/location/dallas/mercedes-gl450 to https://www.gorentals.com/location/dallas/mercedes-gl450
+11:43:40	Warning: 	Found for www.gorentals.com/location/los-angeles/mercedes-s550
+11:43:40	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/los-angeles/mercedes-s550 and https://www.gorentals.com/location/los-angeles/mercedes-s550
+11:43:40	Warning: 	File has moved from www.gorentals.com/location/los-angeles/mercedes-s550 to https://www.gorentals.com/location/los-angeles/mercedes-s550
+11:43:40	Warning: 	Found for www.gorentals.com/location/denver/porsche-911
+11:43:40	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/denver/porsche-911 and https://www.gorentals.com/location/denver/porsche-911
+11:43:40	Warning: 	File has moved from www.gorentals.com/location/denver/porsche-911 to https://www.gorentals.com/location/denver/porsche-911
+11:43:41	Warning: 	Found for www.gorentals.com/location/san-diego/toyota-avalon
+11:43:41	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/san-diego/toyota-avalon and https://www.gorentals.com/location/san-diego/toyota-avalon
+11:43:41	Warning: 	File has moved from www.gorentals.com/location/san-diego/toyota-avalon to https://www.gorentals.com/location/san-diego/toyota-avalon
+11:43:41	Warning: 	Found for www.gorentals.com/location/scottsdale/toyota-camry
+11:43:41	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/scottsdale/toyota-camry and https://www.gorentals.com/location/scottsdale/toyota-camry
+11:43:41	Warning: 	File has moved from www.gorentals.com/location/scottsdale/toyota-camry to https://www.gorentals.com/location/scottsdale/toyota-camry
+11:43:42	Warning: 	Found for www.gorentals.com/location/dallas/corolla
+11:43:42	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/dallas/corolla and https://www.gorentals.com/location/dallas/corolla
+11:43:42	Warning: 	File has moved from www.gorentals.com/location/dallas/corolla to https://www.gorentals.com/location/dallas/corolla
+11:45:04	Warning: 	Retry after error 500 () at link https://www.gorentals.com/location/nashville/inquire/car/chevrolet-camaro-convertible/fbo/nashville-jwn (from https://www.gorentals.com/sitemap/)
+11:45:07	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/santa-monica/ford-mustang-lx (from https://www.gorentals.com/location/newport-beach/inquire/car/ford-mustang-convertible/fbo/fashion-island-hotel)
+11:45:42	Warning: 	Found for www.gorentals.com/location/denver/chevrolet-suburban-ltz-awd
+11:45:42	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/denver/chevrolet-suburban-ltz-awd and https://www.gorentals.com/location/denver/chevrolet-suburban-ltz-awd
+11:45:42	Warning: 	File has moved from www.gorentals.com/location/denver/chevrolet-suburban-ltz-awd to https://www.gorentals.com/location/denver/chevrolet-suburban-ltz-awd
+11:45:43	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/denver/ford-mustang (from https://www.gorentals.com/location/orange-county/inquire/car/ford-mustang-convertible/fbo/newport-beach-npb)
+11:45:44	Warning: 	Found for www.gorentals.com/location/orange-county/mercedes-gl450
+11:45:44	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/orange-county/mercedes-gl450 and https://www.gorentals.com/location/orange-county/mercedes-gl450
+11:45:44	Warning: 	File has moved from www.gorentals.com/location/orange-county/mercedes-gl450 to https://www.gorentals.com/location/orange-county/mercedes-gl450
+11:45:44	Warning: 	Found for www.gorentals.com/location/john-wayne/mercedes-benz-sl550-roadster
+11:45:44	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/john-wayne/mercedes-benz-sl550-roadster and https://www.gorentals.com/location/john-wayne/mercedes-benz-sl550-roadster
+11:45:44	Warning: 	File has moved from www.gorentals.com/location/john-wayne/mercedes-benz-sl550-roadster to https://www.gorentals.com/location/john-wayne/mercedes-benz-sl550-roadster
+11:45:44	Warning: 	Found for www.gorentals.com/location/john-wayne/mercedes-benz-s550
+11:45:44	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/john-wayne/mercedes-benz-s550 and https://www.gorentals.com/location/john-wayne/mercedes-benz-s550
+11:45:44	Warning: 	File has moved from www.gorentals.com/location/john-wayne/mercedes-benz-s550 to https://www.gorentals.com/location/john-wayne/mercedes-benz-s550
+11:45:44	Warning: 	Found for www.gorentals.com/location/aspen/porsche-911
+11:45:44	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/aspen/porsche-911 and https://www.gorentals.com/location/aspen/porsche-911
+11:45:44	Warning: 	File has moved from www.gorentals.com/location/aspen/porsche-911 to https://www.gorentals.com/location/aspen/porsche-911
+11:45:45	Warning: 	Found for www.gorentals.com/location/los-angeles/porsche-panamera
+11:45:45	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/los-angeles/porsche-panamera and https://www.gorentals.com/location/los-angeles/porsche-panamera
+11:45:45	Warning: 	File has moved from www.gorentals.com/location/los-angeles/porsche-panamera to https://www.gorentals.com/location/los-angeles/porsche-panamera
+11:45:45	Warning: 	Found for www.gorentals.com/location/john-wayne/range-rover
+11:45:45	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/john-wayne/range-rover and https://www.gorentals.com/location/john-wayne/range-rover
+11:45:45	Warning: 	File has moved from www.gorentals.com/location/john-wayne/range-rover to https://www.gorentals.com/location/john-wayne/range-rover
+11:45:45	Warning: 	Found for www.gorentals.com/location/las-vegas/toyota-avalon
+11:45:45	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/las-vegas/toyota-avalon and https://www.gorentals.com/location/las-vegas/toyota-avalon
+11:45:45	Warning: 	File has moved from www.gorentals.com/location/las-vegas/toyota-avalon to https://www.gorentals.com/location/las-vegas/toyota-avalon
+11:45:45	Warning: 	Found for www.gorentals.com/location/orange-county/toyota-camry
+11:45:45	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/orange-county/toyota-camry and https://www.gorentals.com/location/orange-county/toyota-camry
+11:45:45	Warning: 	File has moved from www.gorentals.com/location/orange-county/toyota-camry to https://www.gorentals.com/location/orange-county/toyota-camry
+11:45:46	Warning: 	Found for www.gorentals.com/location/orange-county/toyota-corolla
+11:45:46	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/orange-county/toyota-corolla and https://www.gorentals.com/location/orange-county/toyota-corolla
+11:45:46	Warning: 	File has moved from www.gorentals.com/location/orange-county/toyota-corolla to https://www.gorentals.com/location/orange-county/toyota-corolla
+11:45:46	Warning: 	Found for www.gorentals.com/location/denver/toyota-sienna
+11:45:46	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/denver/toyota-sienna and https://www.gorentals.com/location/denver/toyota-sienna
+11:45:46	Warning: 	File has moved from www.gorentals.com/location/denver/toyota-sienna to https://www.gorentals.com/location/denver/toyota-sienna
+11:47:12	Warning: 	Found for www.gorentals.com/location/santa-monica/audi-a5
+11:47:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/santa-monica/audi-a5 and https://www.gorentals.com/location/santa-monica/audi-a5
+11:47:12	Warning: 	File has moved from www.gorentals.com/location/santa-monica/audi-a5 to https://www.gorentals.com/location/santa-monica/audi-a5
+11:47:12	Warning: 	Found for www.gorentals.com/location/los-angeles/audi-a7
+11:47:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/los-angeles/audi-a7 and https://www.gorentals.com/location/los-angeles/audi-a7
+11:47:12	Warning: 	File has moved from www.gorentals.com/location/los-angeles/audi-a7 to https://www.gorentals.com/location/los-angeles/audi-a7
+11:47:13	Warning: 	Found for www.gorentals.com/location/los-angeles/audi-a8l
+11:47:13	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/los-angeles/audi-a8l and https://www.gorentals.com/location/los-angeles/audi-a8l
+11:47:13	Warning: 	File has moved from www.gorentals.com/location/los-angeles/audi-a8l to https://www.gorentals.com/location/los-angeles/audi-a8l
+11:47:13	Warning: 	Found for www.gorentals.com/location/las-vegas/cadillac-escalade-esv
+11:47:13	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/las-vegas/cadillac-escalade-esv and https://www.gorentals.com/location/las-vegas/cadillac-escalade-esv
+11:47:13	Warning: 	File has moved from www.gorentals.com/location/las-vegas/cadillac-escalade-esv to https://www.gorentals.com/location/las-vegas/cadillac-escalade-esv
+11:47:13	Warning: 	Found for www.gorentals.com/location/vail/chevrolet-camaro-coupe
+11:47:13	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/vail/chevrolet-camaro-coupe and https://www.gorentals.com/location/vail/chevrolet-camaro-coupe
+11:47:13	Warning: 	File has moved from www.gorentals.com/location/vail/chevrolet-camaro-coupe to https://www.gorentals.com/location/vail/chevrolet-camaro-coupe
+11:47:14	Warning: 	Found for www.gorentals.com/location/orange-county/chevrolet-suburban-ltz
+11:47:14	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/orange-county/chevrolet-suburban-ltz and https://www.gorentals.com/location/orange-county/chevrolet-suburban-ltz
+11:47:14	Warning: 	File has moved from www.gorentals.com/location/orange-county/chevrolet-suburban-ltz to https://www.gorentals.com/location/orange-county/chevrolet-suburban-ltz
+11:47:15	Warning: 	Found for www.gorentals.com/location/los-angeles/ford-mustang-convertible-lx
+11:47:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/los-angeles/ford-mustang-convertible-lx and https://www.gorentals.com/location/los-angeles/ford-mustang-convertible-lx
+11:47:15	Warning: 	File has moved from www.gorentals.com/location/los-angeles/ford-mustang-convertible-lx to https://www.gorentals.com/location/los-angeles/ford-mustang-convertible-lx
+11:47:15	Warning: 	Found for www.gorentals.com/location/los-angeles/jeep-wrangler-4-door-unlimited
+11:47:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/los-angeles/jeep-wrangler-4-door-unlimited and https://www.gorentals.com/location/los-angeles/jeep-wrangler-4-door-unlimited
+11:47:15	Warning: 	File has moved from www.gorentals.com/location/los-angeles/jeep-wrangler-4-door-unlimited to https://www.gorentals.com/location/los-angeles/jeep-wrangler-4-door-unlimited
+11:47:15	Warning: 	Found for www.gorentals.com/location/scottsdale/mercedes-e350-convertible
+11:47:15	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/scottsdale/mercedes-e350-convertible and https://www.gorentals.com/location/scottsdale/mercedes-e350-convertible
+11:47:15	Warning: 	File has moved from www.gorentals.com/location/scottsdale/mercedes-e350-convertible to https://www.gorentals.com/location/scottsdale/mercedes-e350-convertible
+11:47:16	Warning: 	Found for www.gorentals.com/location/van-nuys/mercedes-e350
+11:47:16	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/van-nuys/mercedes-e350 and https://www.gorentals.com/location/van-nuys/mercedes-e350
+11:47:16	Warning: 	File has moved from www.gorentals.com/location/van-nuys/mercedes-e350 to https://www.gorentals.com/location/van-nuys/mercedes-e350
+11:47:16	Warning: 	Found for www.gorentals.com/location/los-angeles/mercedes-e350-convertible
+11:47:16	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/los-angeles/mercedes-e350-convertible and https://www.gorentals.com/location/los-angeles/mercedes-e350-convertible
+11:47:16	Warning: 	File has moved from www.gorentals.com/location/los-angeles/mercedes-e350-convertible to https://www.gorentals.com/location/los-angeles/mercedes-e350-convertible
+11:47:16	Warning: 	Found for www.gorentals.com/location/los-angeles/mercedes-gl-450
+11:47:16	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/los-angeles/mercedes-gl-450 and https://www.gorentals.com/location/los-angeles/mercedes-gl-450
+11:47:16	Warning: 	File has moved from www.gorentals.com/location/los-angeles/mercedes-gl-450 to https://www.gorentals.com/location/los-angeles/mercedes-gl-450
+11:47:16	Warning: 	Found for www.gorentals.com/location/scottsdale/mercedes-s550
+11:47:16	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/scottsdale/mercedes-s550 and https://www.gorentals.com/location/scottsdale/mercedes-s550
+11:47:16	Warning: 	File has moved from www.gorentals.com/location/scottsdale/mercedes-s550 to https://www.gorentals.com/location/scottsdale/mercedes-s550
+11:47:16	Warning: 	Found for www.gorentals.com/location/orange-county/mercedes-sl-550-roadster
+11:47:16	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/orange-county/mercedes-sl-550-roadster and https://www.gorentals.com/location/orange-county/mercedes-sl-550-roadster
+11:47:16	Warning: 	File has moved from www.gorentals.com/location/orange-county/mercedes-sl-550-roadster to https://www.gorentals.com/location/orange-county/mercedes-sl-550-roadster
+11:47:17	Warning: 	Found for www.gorentals.com/location/santa-monica/porsche-911
+11:47:17	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/santa-monica/porsche-911 and https://www.gorentals.com/location/santa-monica/porsche-911
+11:47:17	Warning: 	File has moved from www.gorentals.com/location/santa-monica/porsche-911 to https://www.gorentals.com/location/santa-monica/porsche-911
+11:47:17	Warning: 	Found for www.gorentals.com/location/scottsdale/porsche-panamera
+11:47:17	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/scottsdale/porsche-panamera and https://www.gorentals.com/location/scottsdale/porsche-panamera
+11:47:17	Warning: 	File has moved from www.gorentals.com/location/scottsdale/porsche-panamera to https://www.gorentals.com/location/scottsdale/porsche-panamera
+11:47:17	Warning: 	Found for www.gorentals.com/location/orange-county/toyota-avalon
+11:47:17	Warning: 	Redirected link is identical because of 'URL Hack' option: www.gorentals.com/location/orange-county/toyota-avalon and https://www.gorentals.com/location/orange-county/toyota-avalon
+11:47:17	Warning: 	File has moved from www.gorentals.com/location/orange-county/toyota-avalon to https://www.gorentals.com/location/orange-county/toyota-avalon
+11:47:18	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/dallas/camry (from https://www.gorentals.com/location/san-diego/inquire/car/toyota-camry/fbo/san-diego-san)
+11:47:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/cadillac-escalade (from https://www.gorentals.com/location/santa-monica/inquire/car/cadillac-escalade-awd/fbo/santa-monica-smo)
+11:47:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/chevrolet-corvette (from https://www.gorentals.com/location/santa-monica/inquire/car/chevrolet-corvette/fbo/santa-monica-smo)
+11:47:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/chevrolet-suburban-ltz (from https://www.gorentals.com/location/santa-monica/inquire/car/chevrolet-suburban-rst/fbo/santa-monica-smo)
+11:47:42	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/scottsdale/jeep-grand-cherokee (from https://www.gorentals.com/location/santa-monica/inquire/car/jeep-grand-cherokee--limited/fbo/santa-monica-smo)
+11:47:42	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/jeep-wrangler-2-door (from https://www.gorentals.com/location/santa-monica/inquire/car/jeep-wrangler-unlimited-4x4/fbo/santa-monica-smo)
+11:47:42	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/orange-county/mercedes-benz-e-350-convertible (from https://www.gorentals.com/location/santa-monica/inquire/car/mercedes-e350-sedan/fbo/santa-monica-smo)
+11:47:43	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/san-diego/mercedes-gl-450 (from https://www.gorentals.com/location/santa-monica/inquire/car/mercedes-gls450-4matic/fbo/santa-monica-smo)
+11:47:43	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/scottsdale/porsche-911 (from https://www.gorentals.com/location/santa-monica/inquire/car/porsche-911-cabriolet/fbo/santa-monica-smo)
+11:47:44	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/porsche-cayenne (from https://www.gorentals.com/location/santa-monica/inquire/car/porsche-cayenne/fbo/santa-monica-smo)
+11:47:44	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/santa-monica/range-rover (from https://www.gorentals.com/location/santa-monica/inquire/car/range-rover-sport/fbo/santa-monica-smo)
+11:47:45	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/toyota-avalon (from https://www.gorentals.com/location/santa-monica/inquire/car/toyota-avalon/fbo/santa-monica-smo)
+11:47:45	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/toyota-camry (from https://www.gorentals.com/location/santa-monica/inquire/car/toyota-camry/fbo/santa-monica-smo)
+11:47:45	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/toyota-corolla (from https://www.gorentals.com/location/santa-monica/inquire/car/toyota-corolla/fbo/santa-monica-smo)
+11:47:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/audi-a5 (from https://www.gorentals.com/location/scottsdale/inquire/car/audi-a7/fbo/scottsdale---sdl)
+11:48:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/dallas/chevrolet-suburban-ltz (from https://www.gorentals.com/location/scottsdale/inquire/car/chevrolet-suburban-rst/fbo/scottsdale---sdl)
+11:48:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/vail/jeep-grand-cherokee (from https://www.gorentals.com/location/scottsdale/inquire/car/jeep-grand-cherokee--limited/fbo/scottsdale---sdl)
+11:48:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/vail/4-door-jeep-wrangler (from https://www.gorentals.com/location/scottsdale/inquire/car/jeep-wrangler-unlimited-4x4/fbo/scottsdale---sdl)
+11:48:02	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/mercedes-c300 (from https://www.gorentals.com/location/scottsdale/inquire/car/mercedes-c300/fbo/scottsdale---sdl)
+11:48:02	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/san-diego/mercedes-e350-convertible (from https://www.gorentals.com/location/scottsdale/inquire/car/mercedes-e400-convertible/fbo/scottsdale---sdl)
+11:48:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/vail/mercedes-gl-450 (from https://www.gorentals.com/location/scottsdale/inquire/car/mercedes-gls450-4matic/fbo/scottsdale---sdl)
+11:48:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/vail/porsche-911-carrera-cabriolet (from https://www.gorentals.com/location/scottsdale/inquire/car/porsche-911-cabriolet/fbo/scottsdale---sdl)
+11:48:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/san-diego/porsche-ceyenne (from https://www.gorentals.com/location/scottsdale/inquire/car/porsche-cayenne/fbo/scottsdale---sdl)
+11:48:04	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/scottsdale/range-rover (from https://www.gorentals.com/location/scottsdale/inquire/car/range-rover-sport/fbo/scottsdale---sdl)
+11:49:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/audi-a4 (from https://www.gorentals.com/location/thermal/inquire/car/audi-a4/fbo/thermal-trm)
+11:49:13	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/aspen/audi-a5-quattro (from https://www.gorentals.com/location/vail/inquire/car/audi-a4/fbo/vail-ege)
+11:49:13	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/san-diego/audi-a6-supercharged (from https://www.gorentals.com/location/vail/inquire/car/audi-a6/fbo/vail-ege)
+11:49:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/scottsdale/chevrolet-suburban-ltz (from https://www.gorentals.com/location/vail/inquire/car/chevrolet-suburban-rst/fbo/vail-ege)
+11:49:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/van-nuys/jeep-grand-cherokee (from https://www.gorentals.com/location/vail/inquire/car/jeep-grand-cherokee--limited/fbo/vail-ege)
+11:49:15	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/las-vegas/jeep-wrangler-2-door (from https://www.gorentals.com/location/vail/inquire/car/jeep-wrangler-unlimited-4x4/fbo/vail-ege)
+11:49:16	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/mercedes-e350 (from https://www.gorentals.com/location/vail/inquire/car/mercedes-e400-convertible/fbo/vail-ege)
+11:49:17	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/scottsdale/mercedes-gl450 (from https://www.gorentals.com/location/vail/inquire/car/mercedes-gls450-4matic/fbo/vail-ege)
+11:49:17	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/van-nuys/porsche-911 (from https://www.gorentals.com/location/vail/inquire/car/porsche-911-cabriolet/fbo/vail-ege)
+11:49:55	Warning: 	Retry after error 500 () at link https://www.gorentals.com/location/john-wayne (from https://www.gorentals.com/linker/styles/grab.html)
+11:49:55	Warning: 	Retry after error 500 () at link https://www.gorentals.com/location/los-angeles (from https://www.gorentals.com/linker/styles/grab.html)
+11:49:55	Warning: 	Retry after error 500 () at link https://www.gorentals.com/location/aspen/mercedes-benz-e-350-convertible (from https://www.gorentals.com/location/aspen/inquire/car/mercedes-e350-sedan/fbo/aspen-ase)
+11:49:55	Warning: 	Retry after error 500 () at link https://www.gorentals.com/location/vail/audi-a6-supercharged (from https://www.gorentals.com/location/dallas/inquire/car/audi-a6/fbo/dallas-dal)
+11:49:55	Warning: 	Retry after error 500 () at link https://www.gorentals.com/location/john-wayne/cadillac-escalade-esv-awd (from https://www.gorentals.com/location/dana-point/inquire/car/cadillac-escalade-esv-awd/fbo/monarch-beach-resort)
+11:49:55	Warning: 	Retry after error 500 () at link https://www.gorentals.com/location/san-diego/mercedes-e350-sport-sedan (from https://www.gorentals.com/location/dana-point/inquire/car/mercedes-e350-sedan/fbo/monarch-beach-resort)
+11:49:55	Warning: 	Retry after error 500 () at link https://www.gorentals.com/location/vail/escalade-esv (from https://www.gorentals.com/location/denver/inquire/car/cadillac-escalade-esv-awd/fbo/denver-apa)
+11:49:55	Warning: 	Retry after error 500 () at link https://www.gorentals.com/location/denver/porsche-cayenne-awd (from https://www.gorentals.com/location/fort-worth/inquire/car/porsche-cayenne/fbo/fort-worth-ftw)
+11:49:55	Warning: 	Retry after error 500 () at link https://www.gorentals.com/location/santa-monica/mercedes-e350-convertible (from https://www.gorentals.com/location/las-vegas/inquire/car/mercedes-e350-sedan/fbo/las-vegas-las)
+11:49:55	Error: 	"" (500) after 2 retries at link https://www.gorentals.com/location/nashville/inquire/car/chevrolet-camaro-convertible/fbo/nashville-jwn (from https://www.gorentals.com/sitemap/)
+11:49:55	Warning: 	Retry after error 500 () at link https://www.gorentals.com/location/santa-monica/ford-mustang-lx (from https://www.gorentals.com/location/newport-beach/inquire/car/ford-mustang-convertible/fbo/fashion-island-hotel)
+11:49:55	Warning: 	Retry after error 500 () at link https://www.gorentals.com/location/denver/ford-mustang (from https://www.gorentals.com/location/orange-county/inquire/car/ford-mustang-convertible/fbo/newport-beach-npb)
+11:49:55	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/dallas/camry (from https://www.gorentals.com/location/san-diego/inquire/car/toyota-camry/fbo/san-diego-san)
+11:49:55	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/cadillac-escalade (from https://www.gorentals.com/location/santa-monica/inquire/car/cadillac-escalade-awd/fbo/santa-monica-smo)
+11:49:55	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/chevrolet-corvette (from https://www.gorentals.com/location/santa-monica/inquire/car/chevrolet-corvette/fbo/santa-monica-smo)
+11:49:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/chevrolet-suburban-ltz (from https://www.gorentals.com/location/santa-monica/inquire/car/chevrolet-suburban-rst/fbo/santa-monica-smo)
+11:49:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/scottsdale/jeep-grand-cherokee (from https://www.gorentals.com/location/santa-monica/inquire/car/jeep-grand-cherokee--limited/fbo/santa-monica-smo)
+11:49:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/jeep-wrangler-2-door (from https://www.gorentals.com/location/santa-monica/inquire/car/jeep-wrangler-unlimited-4x4/fbo/santa-monica-smo)
+11:49:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/orange-county/mercedes-benz-e-350-convertible (from https://www.gorentals.com/location/santa-monica/inquire/car/mercedes-e350-sedan/fbo/santa-monica-smo)
+11:49:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/san-diego/mercedes-gl-450 (from https://www.gorentals.com/location/santa-monica/inquire/car/mercedes-gls450-4matic/fbo/santa-monica-smo)
+11:49:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/scottsdale/porsche-911 (from https://www.gorentals.com/location/santa-monica/inquire/car/porsche-911-cabriolet/fbo/santa-monica-smo)
+11:49:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/porsche-cayenne (from https://www.gorentals.com/location/santa-monica/inquire/car/porsche-cayenne/fbo/santa-monica-smo)
+11:49:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/santa-monica/range-rover (from https://www.gorentals.com/location/santa-monica/inquire/car/range-rover-sport/fbo/santa-monica-smo)
+11:49:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/toyota-avalon (from https://www.gorentals.com/location/santa-monica/inquire/car/toyota-avalon/fbo/santa-monica-smo)
+11:49:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/toyota-camry (from https://www.gorentals.com/location/santa-monica/inquire/car/toyota-camry/fbo/santa-monica-smo)
+11:49:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/toyota-corolla (from https://www.gorentals.com/location/santa-monica/inquire/car/toyota-corolla/fbo/santa-monica-smo)
+11:49:59	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/audi-a5 (from https://www.gorentals.com/location/scottsdale/inquire/car/audi-a7/fbo/scottsdale---sdl)
+11:50:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/dallas/chevrolet-suburban-ltz (from https://www.gorentals.com/location/scottsdale/inquire/car/chevrolet-suburban-rst/fbo/scottsdale---sdl)
+11:50:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/vail/jeep-grand-cherokee (from https://www.gorentals.com/location/scottsdale/inquire/car/jeep-grand-cherokee--limited/fbo/scottsdale---sdl)
+11:50:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/vail/4-door-jeep-wrangler (from https://www.gorentals.com/location/scottsdale/inquire/car/jeep-wrangler-unlimited-4x4/fbo/scottsdale---sdl)
+11:50:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/mercedes-c300 (from https://www.gorentals.com/location/scottsdale/inquire/car/mercedes-c300/fbo/scottsdale---sdl)
+11:50:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/san-diego/mercedes-e350-convertible (from https://www.gorentals.com/location/scottsdale/inquire/car/mercedes-e400-convertible/fbo/scottsdale---sdl)
+11:50:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/vail/mercedes-gl-450 (from https://www.gorentals.com/location/scottsdale/inquire/car/mercedes-gls450-4matic/fbo/scottsdale---sdl)
+11:50:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/vail/porsche-911-carrera-cabriolet (from https://www.gorentals.com/location/scottsdale/inquire/car/porsche-911-cabriolet/fbo/scottsdale---sdl)
+11:50:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/san-diego/porsche-ceyenne (from https://www.gorentals.com/location/scottsdale/inquire/car/porsche-cayenne/fbo/scottsdale---sdl)
+11:50:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/scottsdale/range-rover (from https://www.gorentals.com/location/scottsdale/inquire/car/range-rover-sport/fbo/scottsdale---sdl)
+11:50:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/audi-a4 (from https://www.gorentals.com/location/thermal/inquire/car/audi-a4/fbo/thermal-trm)
+11:50:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/aspen/audi-a5-quattro (from https://www.gorentals.com/location/vail/inquire/car/audi-a4/fbo/vail-ege)
+11:50:01	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/san-diego/audi-a6-supercharged (from https://www.gorentals.com/location/vail/inquire/car/audi-a6/fbo/vail-ege)
+11:50:02	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/scottsdale/chevrolet-suburban-ltz (from https://www.gorentals.com/location/vail/inquire/car/chevrolet-suburban-rst/fbo/vail-ege)
+11:50:02	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/van-nuys/jeep-grand-cherokee (from https://www.gorentals.com/location/vail/inquire/car/jeep-grand-cherokee--limited/fbo/vail-ege)
+11:50:02	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/las-vegas/jeep-wrangler-2-door (from https://www.gorentals.com/location/vail/inquire/car/jeep-wrangler-unlimited-4x4/fbo/vail-ege)
+11:50:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/los-angeles/mercedes-e350 (from https://www.gorentals.com/location/vail/inquire/car/mercedes-e400-convertible/fbo/vail-ege)
+11:50:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/scottsdale/mercedes-gl450 (from https://www.gorentals.com/location/vail/inquire/car/mercedes-gls450-4matic/fbo/vail-ege)
+11:50:03	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.gorentals.com/location/van-nuys/porsche-911 (from https://www.gorentals.com/location/vail/inquire/car/porsche-911-cabriolet/fbo/vail-ege)
+11:50:04	Error: 	"" (500) after 2 retries at link https://www.gorentals.com/location/john-wayne (from https://www.gorentals.com/linker/styles/grab.html)
+11:50:04	Error: 	"" (500) after 2 retries at link https://www.gorentals.com/location/los-angeles (from https://www.gorentals.com/linker/styles/grab.html)
+11:50:04	Error: 	"" (500) after 2 retries at link https://www.gorentals.com/location/aspen/mercedes-benz-e-350-convertible (from https://www.gorentals.com/location/aspen/inquire/car/mercedes-e350-sedan/fbo/aspen-ase)
+11:50:04	Error: 	"" (500) after 2 retries at link https://www.gorentals.com/location/vail/audi-a6-supercharged (from https://www.gorentals.com/location/dallas/inquire/car/audi-a6/fbo/dallas-dal)
+11:50:04	Error: 	"" (500) after 2 retries at link https://www.gorentals.com/location/john-wayne/cadillac-escalade-esv-awd (from https://www.gorentals.com/location/dana-point/inquire/car/cadillac-escalade-esv-awd/fbo/monarch-beach-resort)
+11:50:04	Error: 	"" (500) after 2 retries at link https://www.gorentals.com/location/san-diego/mercedes-e350-sport-sedan (from https://www.gorentals.com/location/dana-point/inquire/car/mercedes-e350-sedan/fbo/monarch-beach-resort)
+11:50:04	Error: 	"" (500) after 2 retries at link https://www.gorentals.com/location/vail/escalade-esv (from https://www.gorentals.com/location/denver/inquire/car/cadillac-escalade-esv-awd/fbo/denver-apa)
+11:50:04	Error: 	"" (500) after 2 retries at link https://www.gorentals.com/location/denver/porsche-cayenne-awd (from https://www.gorentals.com/location/fort-worth/inquire/car/porsche-cayenne/fbo/fort-worth-ftw)
+11:50:04	Error: 	"" (500) after 2 retries at link https://www.gorentals.com/location/santa-monica/mercedes-e350-convertible (from https://www.gorentals.com/location/las-vegas/inquire/car/mercedes-e350-sedan/fbo/las-vegas-las)
+11:50:04	Error: 	"" (500) after 2 retries at link https://www.gorentals.com/location/santa-monica/ford-mustang-lx (from https://www.gorentals.com/location/newport-beach/inquire/car/ford-mustang-convertible/fbo/fashion-island-hotel)
+11:50:04	Error: 	"" (500) after 2 retries at link https://www.gorentals.com/location/denver/ford-mustang (from https://www.gorentals.com/location/orange-county/inquire/car/ford-mustang-convertible/fbo/newport-beach-npb)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/dallas/camry (from https://www.gorentals.com/location/san-diego/inquire/car/toyota-camry/fbo/san-diego-san)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/los-angeles/cadillac-escalade (from https://www.gorentals.com/location/santa-monica/inquire/car/cadillac-escalade-awd/fbo/santa-monica-smo)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/los-angeles/chevrolet-corvette (from https://www.gorentals.com/location/santa-monica/inquire/car/chevrolet-corvette/fbo/santa-monica-smo)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/los-angeles/chevrolet-suburban-ltz (from https://www.gorentals.com/location/santa-monica/inquire/car/chevrolet-suburban-rst/fbo/santa-monica-smo)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/scottsdale/jeep-grand-cherokee (from https://www.gorentals.com/location/santa-monica/inquire/car/jeep-grand-cherokee--limited/fbo/santa-monica-smo)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/los-angeles/jeep-wrangler-2-door (from https://www.gorentals.com/location/santa-monica/inquire/car/jeep-wrangler-unlimited-4x4/fbo/santa-monica-smo)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/orange-county/mercedes-benz-e-350-convertible (from https://www.gorentals.com/location/santa-monica/inquire/car/mercedes-e350-sedan/fbo/santa-monica-smo)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/san-diego/mercedes-gl-450 (from https://www.gorentals.com/location/santa-monica/inquire/car/mercedes-gls450-4matic/fbo/santa-monica-smo)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/scottsdale/porsche-911 (from https://www.gorentals.com/location/santa-monica/inquire/car/porsche-911-cabriolet/fbo/santa-monica-smo)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/los-angeles/porsche-cayenne (from https://www.gorentals.com/location/santa-monica/inquire/car/porsche-cayenne/fbo/santa-monica-smo)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/santa-monica/range-rover (from https://www.gorentals.com/location/santa-monica/inquire/car/range-rover-sport/fbo/santa-monica-smo)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/los-angeles/toyota-avalon (from https://www.gorentals.com/location/santa-monica/inquire/car/toyota-avalon/fbo/santa-monica-smo)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/los-angeles/toyota-camry (from https://www.gorentals.com/location/santa-monica/inquire/car/toyota-camry/fbo/santa-monica-smo)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/los-angeles/toyota-corolla (from https://www.gorentals.com/location/santa-monica/inquire/car/toyota-corolla/fbo/santa-monica-smo)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/los-angeles/audi-a5 (from https://www.gorentals.com/location/scottsdale/inquire/car/audi-a7/fbo/scottsdale---sdl)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/dallas/chevrolet-suburban-ltz (from https://www.gorentals.com/location/scottsdale/inquire/car/chevrolet-suburban-rst/fbo/scottsdale---sdl)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/vail/jeep-grand-cherokee (from https://www.gorentals.com/location/scottsdale/inquire/car/jeep-grand-cherokee--limited/fbo/scottsdale---sdl)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/vail/4-door-jeep-wrangler (from https://www.gorentals.com/location/scottsdale/inquire/car/jeep-wrangler-unlimited-4x4/fbo/scottsdale---sdl)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/los-angeles/mercedes-c300 (from https://www.gorentals.com/location/scottsdale/inquire/car/mercedes-c300/fbo/scottsdale---sdl)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/san-diego/mercedes-e350-convertible (from https://www.gorentals.com/location/scottsdale/inquire/car/mercedes-e400-convertible/fbo/scottsdale---sdl)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/vail/mercedes-gl-450 (from https://www.gorentals.com/location/scottsdale/inquire/car/mercedes-gls450-4matic/fbo/scottsdale---sdl)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/vail/porsche-911-carrera-cabriolet (from https://www.gorentals.com/location/scottsdale/inquire/car/porsche-911-cabriolet/fbo/scottsdale---sdl)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/san-diego/porsche-ceyenne (from https://www.gorentals.com/location/scottsdale/inquire/car/porsche-cayenne/fbo/scottsdale---sdl)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/scottsdale/range-rover (from https://www.gorentals.com/location/scottsdale/inquire/car/range-rover-sport/fbo/scottsdale---sdl)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/los-angeles/audi-a4 (from https://www.gorentals.com/location/thermal/inquire/car/audi-a4/fbo/thermal-trm)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/aspen/audi-a5-quattro (from https://www.gorentals.com/location/vail/inquire/car/audi-a4/fbo/vail-ege)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/san-diego/audi-a6-supercharged (from https://www.gorentals.com/location/vail/inquire/car/audi-a6/fbo/vail-ege)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/scottsdale/chevrolet-suburban-ltz (from https://www.gorentals.com/location/vail/inquire/car/chevrolet-suburban-rst/fbo/vail-ege)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/van-nuys/jeep-grand-cherokee (from https://www.gorentals.com/location/vail/inquire/car/jeep-grand-cherokee--limited/fbo/vail-ege)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/las-vegas/jeep-wrangler-2-door (from https://www.gorentals.com/location/vail/inquire/car/jeep-wrangler-unlimited-4x4/fbo/vail-ege)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/los-angeles/mercedes-e350 (from https://www.gorentals.com/location/vail/inquire/car/mercedes-e400-convertible/fbo/vail-ege)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/scottsdale/mercedes-gl450 (from https://www.gorentals.com/location/vail/inquire/car/mercedes-gls450-4matic/fbo/vail-ege)
+11:50:04	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.gorentals.com/location/van-nuys/porsche-911 (from https://www.gorentals.com/location/vail/inquire/car/porsche-911-cabriolet/fbo/vail-ege)
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 minutes 19 seconds : 11196 links scanned, 10897 files written (871386435 bytes overall), 1114 files updated [17669329 bytes received at 8839 bytes/sec], 78080149 bytes transferred using HTTP compression in 1114 files, ratio 20%, 10.1 requests per connection
+(113 errors, 375 warnings, 0 messages)
